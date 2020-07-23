@@ -7,8 +7,7 @@ body {
 }
 
 .news-card {
-	width: 40%;
-	min-width: 660px;
+	width: 760px;
 	height: 30vh;
 	padding: 3em;
 	margin: 80px auto;

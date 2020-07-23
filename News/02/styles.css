@@ -46,6 +46,6 @@ img {
 	left: 0;
 	height: 100%;
 	z-index: -2;
-	filter: saturate(0.15);
+	filter: saturate(0.5);
 	opacity: 0.7;
 }
